@@ -249,8 +249,30 @@ textarea{
 }
 
 /* footer section design */
-.footer-section{
+footer{
+    text-align: center;
+    padding: 40px;
+
+}
+.footer-logo{
+    color: #4E47FF;
+    font-weight: bold;
+    font-size:  60px;
+    padding: 20px;
+}
+footer p{
+    font-size: 18px;
+}
+.footer-link{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: #757575;
 }
 
 
