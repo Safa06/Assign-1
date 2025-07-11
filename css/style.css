@@ -248,20 +248,30 @@ textarea{
     border: none;
 }
 
+.nav-btn2:hover{
+    background-color: aqua;
+    color: #252432;
+}
+.nav-btn3:hover{
+    background-color: aqua;
+    color: #252432;
+}
+
 /* footer section design */
 footer{
     text-align: center;
-    padding: 40px;
+    margin: 100px;
 
 }
 .footer-logo{
     color: #4E47FF;
-    font-weight: bold;
+    font-weight: bolder;
     font-size:  60px;
-    padding: 20px;
+    
 }
 footer p{
     font-size: 18px;
+    line-height: 25px;
 }
 .footer-link{
     display: flex;
