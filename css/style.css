@@ -248,6 +248,11 @@ textarea{
     border: none;
 }
 
+/* footer section design */
+.footer-section{
+    display: flex;
+}
+
 
 
 
