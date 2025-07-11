@@ -1,0 +1,251 @@
+/* font family */
+
+.inter-font {
+  font-family: "Inter", sans-serif;
+}
+
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+}
+
+/* header part */
+.nav-logo{
+    color: #4E47FF;
+    font-weight: bold;
+    font-size:  40px;
+    padding: 20px;
+}
+.nav-btn{
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+}
+.nav-btn:hover{
+    background-color: aqua;
+    color: #252432;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header{
+    background-image: url('../Assets/Hero-bg.png');
+    background-size:contain;
+    padding: 0 20px;
+    margin-bottom: 30px;
+    
+   
+}
+.nav-title{
+    font-size: 50px;
+    margin-bottom: 60px;
+}
+.nav-btn1{
+        margin-bottom: 80px;
+
+}
+.nav-div{
+    text-align: center;
+    padding: 30px;
+}
+
+/* main design */
+/* see it in action section design */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.section-action{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 30px;
+    gap: 30px;
+    
+       
+}
+.section-action-p{
+    color: #252432;
+    opacity: 50%;
+    font-size: 19px;
+}
+.section-action-h2{
+    font-size: 42px;
+}
+.section-action-img{
+    border-radius: 50px;
+}
+
+/* joined thousands section design */
+.section-joined{
+    background-color: #E5E7FF;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    margin-bottom: 80px;
+
+    
+}
+.section-joined-h{
+    color: #4E47FF;
+    font-weight: bold;
+    font-size: 45px;
+}
+.section-joined-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+
+}
+
+/* what our users design */
+.section-what-user{
+    padding: 40px 0;
+    margin-bottom: 40px;
+     
+}
+.section-user-h2{
+    text-align: center;
+    font-size: 45px;
+}
+.section-what-users{
+    display: flex;
+    gap: 30px;
+    justify-content: space-evenly;
+    text-align: start;
+    
+}
+.avatar-img{
+    border-radius: 40px;
+    height: 60px;
+}
+.section-what-users-avt{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.star-review{
+    border: 2px solid #F2EDED;
+    border-radius: 24px;
+    padding: 15px 20px;
+    box-shadow:#252432;
+    width: 500px;
+    height: 240px;
+}
+.section-user-title{
+    font-size: 20px;
+
+}
+.section-user-p{
+    font-size: 16px;
+}
+.section-user-p1{
+    color: #757575;
+}
+.section-user-p2{
+    color: #B3B3B3;
+}
+
+/* ready to focus section */
+.section-focus{
+    text-align: center;
+    margin: 100px;
+
+}
+
+.ready-img{
+    margin-top: 50px;
+    border-radius: 30px;
+}
+.nav-btn2{
+    margin: 20px;
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px;
+    width: 200px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+}
+
+.section-touch{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+    background-color: #f5f8ff;
+    background-size:cover;
+    margin-bottom: 30px;
+}
+
+.section-touch-h1{
+    font-size: 60px;
+    font-weight: bold;
+
+
+}
+
+textarea{
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin: 10px;
+    padding: 20px;
+
+}
+.touch-div input[type="text"]{
+    display: block;
+    height: 40px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #B3B3B3;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    color: #B3B3B3;
+}
+
+.touch-div input[type="email"]{
+    display: block;
+    height: 40px;
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid #B3B3B3;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    color: #B3B3B3;
+}
+.lebels{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.nav-btn3{
+    margin: 10px;
+    background-color: #4E47FF;
+    color: white;
+    padding: 10px;
+    width: 100%;
+    height: 52px;
+    font-weight: bold;
+    font-size: 16px;
+    border-radius: 10px;
+    border: none;
+}
+
+
+
+
